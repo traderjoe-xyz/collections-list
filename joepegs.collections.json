@@ -1,0 +1,26 @@
+{
+  "name": "Joepegs Collections List",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "collections": [
+    {
+      "address": "0x880Fe52C6bc4FFFfb92D6C03858C97807a900691",
+      "name": "Party Animals",
+      "symbol": "APA",
+      "desc": "Avalanche Party Animals is a collection of 10,000 unique, NFTs, who are breaking the dance floor on the Avalanche Blockchain and can’t wait to finally enter the Party Animals Mansion. APA are based on the unofficial Avalanche mascot, Wolfie. We hope to bring it to its rightful place as the official mascot and by doing so, also bring recognition to the platform. Each Party Animal is hand-drawn by our talented artist anxd is randomly generated from numerous of assets. All of them are unique, but some are simply legendary.", 
+      "verified": 1,
+      "royalties": 0.05, 
+      "fees": 0.02,
+      "twitter": "https://twitter.com/apa_nft",
+      "discord": "https://t.co/BkdreWVBMTt",
+      "website": "https://partyanimalsxyz.com//",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/logos/0x880Fe52C6bc4FFFfb92D6C03858C97807a900691/logo.png",
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/banners/0x880Fe52C6bc4FFFfb92D6C03858C97807a900691/banner.png"
+    }
+  ],
+  "timestamp": "2021-04-30T00:00:00+00:00"
+}
+  
