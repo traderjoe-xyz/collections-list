@@ -5,22 +5,29 @@
     "minor": 1,
     "patch": 0
   },
-  "collections": [
-    {
-      "address": "0x880Fe52C6bc4FFFfb92D6C03858C97807a900691",
+  "collections": {
+    "0x880Fe52C6bc4FFFfb92D6C03858C97807a900691": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x880Fe52C6bc4FFFfb92D6C03858C97807a900691/banner.png",
+      "description": "Avalanche Party Animals is a collection of 10,000 unique, NFTs, who are breaking the dance floor on the Avalanche Blockchain and can’t wait to finally enter the Party Animals Mansion. APA are based on the unofficial Avalanche mascot, Wolfie. We hope to bring it to its rightful place as the official mascot and by doing so, also bring recognition to the platform. Each Party Animal is hand-drawn by our talented artist anxd is randomly generated from numerous of assets. All of them are unique, but some are simply legendary.",
+      "discordURI": "https://t.co/BkdreWVBMTt",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x880Fe52C6bc4FFFfb92D6C03858C97807a900691/logo.png",
       "name": "Party Animals",
       "symbol": "APA",
-      "desc": "Avalanche Party Animals is a collection of 10,000 unique, NFTs, who are breaking the dance floor on the Avalanche Blockchain and can’t wait to finally enter the Party Animals Mansion. APA are based on the unofficial Avalanche mascot, Wolfie. We hope to bring it to its rightful place as the official mascot and by doing so, also bring recognition to the platform. Each Party Animal is hand-drawn by our talented artist anxd is randomly generated from numerous of assets. All of them are unique, but some are simply legendary.", 
-      "verified": 1,
-      "royalties": 0.05, 
-      "fees": 0.02,
-      "twitter": "https://twitter.com/apa_nft",
-      "discord": "https://t.co/BkdreWVBMTt",
-      "website": "https://partyanimalsxyz.com//",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/logos/0x880Fe52C6bc4FFFfb92D6C03858C97807a900691/logo.png",
-      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/banners/0x880Fe52C6bc4FFFfb92D6C03858C97807a900691/banner.png"
+      "twitterURI": "https://twitter.com/apa_nft",
+      "verified": "verified_trusted",
+      "websiteURI": "https://partyanimalsxyz.com//"
+    },
+    "0x8b406238259a331B42bfFA1546057247C23aE8a3": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8b406238259a331B42bfFA1546057247C23aE8a3/banner.png",
+      "description": "An analog to culture built for the metaverse. Swarms portrays a decadent world where genetically modified bees engineered by a rogue AI are sent to terraform mars. Created on the Avalanche blockchain, 10000 bees are currently moving to mars.",
+      "discordURI": "https://discord.gg/swarms",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8b406238259a331B42bfFA1546057247C23aE8a3/logo.png",
+      "name": "Swarms",
+      "symbol": "SWARMS",
+      "twitterURI": "https://twitter.com/swarms_ai",
+      "verified": "verified",
+      "websiteURI": "https://theswarms.ai/"
     }
-  ],
+  },
   "timestamp": "2021-04-30T00:00:00+00:00"
 }
-  
