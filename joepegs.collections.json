@@ -169,16 +169,52 @@
         "websiteURI": "www.potluck-labs.com"
     },
   
-        "": {
-        "bannerURI": "",
-        "description": "", 
-        "discordURI": "",
-        "logoURI": "",
-        "name": "",
-        "symbol": "",
-        "twitterURI": "",
+        "0x6caD7faa3F17e2E845cbf6dEFeBDaE44484d448e": {
+        "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6caD7faa3F17e2E845cbf6dEFeBDaE44484d448e/banner.png",
+        "description": "Toonlands Metaverse NFT Collection; Forms the main skeletal structure of Circle NFT Game Store that is founded by Playumm Game Technologies with the goal of creating a common ground between NFT games and classic games (Mobile, PC) 10.366 unique and randomly generated isometric plots are connected to the Toonlands map and consists of digital crypto assets that are customizable and visitable in 3D space.", 
+        "discordURI": "http://discord.gg/playumm",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6caD7faa3F17e2E845cbf6dEFeBDaE44484d448e/logo.png",
+        "name": "Toonlands Metaverse",
+        "symbol": "Toonlands",
+        "twitterURI": "http://twitter.com/playumm",
         "verified": "verified",
-        "websiteURI": ""
+        "websiteURI": "https://mint.toonlands.com/"
+    },
+  
+        "0x2fFfFfB80eA0C59ca19258872351AE4a43facb37": {
+          "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x2fFfFfB80eA0C59ca19258872351AE4a43facb37/banner.png",
+          "description": "An NFT avatar is required to play The Legend of Aurum Draconis. The higher your rank, the more starting stats you get to spend. This character gains experience and levels through our mini-games and is used throughout every layer coming up. As you level up, you receive new stat points to increase your avatar's value and chances of winning.", 
+          "discordURI": "https://discord.gg/dragoncryptogaming",
+          "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x2fFfFfB80eA0C59ca19258872351AE4a43facb37/logo.png",
+          "name": "Dragon Crypto Gaming",
+          "symbol": "",
+          "twitterURI": "https://twitter.com/DRGNCRYPTOGAMIN",
+          "verified": "verified",
+          "websiteURI": "https://dragoncrypto.io/"
+    },
+
+        "0xb42d0f524564cafE2a47CA3331221903Eda83b3C": {
+        "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xb42d0f524564cafE2a47CA3331221903Eda83b3C/banner.png",
+        "description": "Monkeez is a 4k collection of randomly generated NFTs on the Avalanche blockchain.", 
+        "discordURI": "http://discord.gg/monkeez",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xb42d0f524564cafE2a47CA3331221903Eda83b3C/logo.png",
+        "name": "Monkeez",
+        "symbol": "MONKEEZ",
+        "twitterURI": "https://twitter.com/MonkeezNFT",
+        "verified": "verified",
+        "websiteURI": "https://www.monkeez.io/"
+    },
+
+        "0x3c965d9fcaf231f434186e9cf0c1e179307cd211": {
+        "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x3c965d9fcaf231f434186e9cf0c1e179307cd211/banner.png",
+        "description": "2,605 predator sharks bootstrapping a wagering platform with royalties for holders", 
+        "discordURI": "discord.gg/F3v8R55kpM",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x3c965d9fcaf231f434186e9cf0c1e179307cd211/logo.png",
+        "name": "Ava Sharks",
+        "symbol": "AVAS",
+        "twitterURI": "https://twitter.com/Avasharks",
+        "verified": "verified",
+        "websiteURI": "avasharks.io"
     }
 },
   "timestamp": "2021-04-30T00:00:00+00:00"
