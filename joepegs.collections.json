@@ -181,6 +181,66 @@
       "twitterURI": "https://twitter.com/Avasharks",
       "verified": "verified",
       "websiteURI": "avasharks.io"
+    },
+    
+    "0x260d5af5b1c9f2c8ba129d0405a4db4b1e98d6bd": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x260d5af5b1c9f2c8ba129d0405a4db4b1e98d6bd/banner.png",
+      "description": "BabyRider, which took off as a humble pfp project in Avalanche ecosystem, caused real life friendships with its good vibes only community. BabyRider has since been an epitome of a community project with collabs that provide great advantages for the community and games being enjoyed together with awesome rewards. It will continue on this path full throttle. We will always put the community first and will provide collabs with successful projects.",
+      "discordURI": "https://discord.gg/babyrider",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x260d5af5b1c9f2c8ba129d0405a4db4b1e98d6bd/logo.png",
+      "name": "Baby Rider",
+      "symbol": "BABYRIDER",
+      "twitterURI": "https://twitter.com/babyridernft",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+  
+      "0xeca703af8713180057c2b1ae069a16ea970217f4": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xeca703af8713180057c2b1ae069a16ea970217f4/banner.png",
+      "description": "Simple Man is someone who becomes another person every day. He doesn’t have a sense of self, always pretends to be somebody else. Simple Man is one of us. Simple Man is among us. In this Metaverse, Simple Man is us!",
+      "discordURI": "https://discord.gg/uykusuz",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xeca703af8713180057c2b1ae069a16ea970217f4/logo.png",
+      "name": "Simple Man",
+      "symbol": "SIMPLEMAN",
+      "twitterURI": "https://twitter.com/asimpleman_nft",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+
+    "0x5378d068001d7e53d6c0a7ef539fbe213b5eb075": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x5378d068001d7e53d6c0a7ef539fbe213b5eb075/banner.png",
+      "description": "",
+      "discordURI": "discord.gg/BaJjyGmJ",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x5378d068001d7e53d6c0a7ef539fbe213b5eb075/logo.png",
+      "name": "FunnelHeads",
+      "symbol": "FUNNELHEADS",
+      "twitterURI": "https://twitter.com/FunnelheadsNft",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+
+    "0x8927985B358692815E18F2138964679DcA5d3b79": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8927985B358692815E18F2138964679DcA5d3b79/banner.png",
+      "description": "",
+      "discordURI": "http://discord.gg/chikn",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8927985B358692815E18F2138964679DcA5d3b79/logo.png",
+      "name": "Chikn",
+      "symbol": "chikn",
+      "twitterURI": "https://twitter.com/chikn_nft",
+      "verified": "verified_trusted",
+      "websiteURI": "https://chikn.farm/"
+    },
+
+    "0x4a8e6a9b93e55af71882f3afaa10141715ce5fd2": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x4a8e6a9b93e55af71882f3afaa10141715ce5fd2/banner.png",
+      "description": "Tiny Bones is a web browser game enhanced by NFTs economics and based on Avalanche blockchain. Embody your NFT, meet players, team up, attend unique events, complete quests, boost your stats and grind the leaderboard!",
+      "discordURI": "discord.gg/tinybones",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x4a8e6a9b93e55af71882f3afaa10141715ce5fd2/logo.png",
+      "name": "Tiny Bones",
+      "symbol": "TBC",
+      "twitterURI": "https://twitter.com/TinyBonesClub",
+      "verified": "verified",
+      "websiteURI": "https://tinybones.club/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
