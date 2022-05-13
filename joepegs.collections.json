@@ -236,6 +236,72 @@
       "twitterURI": "https://twitter.com/TinyBonesClub",
       "verified": "verified",
       "websiteURI": "https://tinybones.club/"
+    },
+    "0xCf91B99548b1C17dD1095c0680E20de380635e20": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xCf91B99548b1C17dD1095c0680E20de380635e20/banner.png",
+      "description": "Roostr is a collection of 12000 NFTs that drop $FERT!",
+      "discordURI": "http://discord.gg/chikn",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xCf91B99548b1C17dD1095c0680E20de380635e20/logo.png",
+      "name": "Roostr",
+      "symbol": "Roostr",
+      "twitterURI": "https://twitter.com/chikn_nft",
+      "verified": "verified",
+      "websiteURI": "https://chikn.farm/"
+    },
+    "0x250c53d7307cfa8aabbd58d80e9fe3c8b64748c8": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x250c53d7307cfa8aabbd58d80e9fe3c8b64748c8/banner.png",
+      "description": "The first mafia-themed game on Avalanche, 2222 Unique Handcrafted BULL",
+      "discordURI": "https://discord.gg/TJeE2xQs2r",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x250c53d7307cfa8aabbd58d80e9fe3c8b64748c8/logo.png",
+      "name": "Boss Bulls",
+      "symbol": "BBULS",
+      "twitterURI": "https://twitter.com/avaxbossbulls",
+      "verified": "verified",
+      "websiteURI": "https://www.bossbulls.club"
+    },
+    "0x2a84808279ff8316fbd559b781a1397622257376": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x2a84808279ff8316fbd559b781a1397622257376/banner.png",
+      "description": "BabySkullz are the first inhabitants of Skullz City — a place where life is peaceful and neighbors are friendly — They take things slow, have a positive energy, a blessed soul, believe that the future is full of surprises and that it holdz more than meets the eye.",
+      "discordURI": "https://discord.gg/QK7ER6NgkH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x2a84808279ff8316fbd559b781a1397622257376/logo.png",
+      "name": "BabySkullz",
+      "symbol": "BabySkullz",
+      "twitterURI": "https://twitter.com/madskullz_nft",
+      "verified": "verified",
+      "websiteURI": "https://madskullz.io/babyskullz"
+    },
+    "0x696d76a03442b661ecdf0dd510089ba078232d7c": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x696d76a03442b661ecdf0dd510089ba078232d7c/banner.png",
+      "description": "Our feelings are what make us who we are. This collection is designed to remind us that everything we feel is also what makes us up. All completely unique and hand drawn.",
+      "discordURI": "https://discord.gg/theperson",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x696d76a03442b661ecdf0dd510089ba078232d7c/logo.png",
+      "name": "Feelings",
+      "symbol": "FEELINGS",
+      "twitterURI": "https://twitter.com/feelings_nft",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+    "0x24b7b369CCB384E451c9bcBF41dE4C74eC21F43C": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x24b7b369CCB384E451c9bcBF41dE4C74eC21F43C/banner.png",
+      "description": "3333 Astrokids navigating their way through Fantom, Avalanche, and Matic",
+      "discordURI": "https://discord.gg/7STucP7N",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x24b7b369CCB384E451c9bcBF41dE4C74eC21F43C/logo.png",
+      "name": "Astrokids",
+      "symbol": "ASTRO",
+      "twitterURI": "https://twitter.com/TEENSONACID",
+      "verified": "verified",
+      "websiteURI": "https://www.potluck-labs.com/projects/0x24b7b369CCB384E451c9bcBF41dE4C74eC21F43C"
+    },
+    "0xfE8FCf6B03407FE7f4bf916E1649a662d1B2eE5D": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xfE8FCf6B03407FE7f4bf916E1649a662d1B2eE5D/banner.png",
+      "description": "The most roaring NFT collection available! A game changer for the NFT space on Avalanche. Here to bring you high quality NFTs from a team you trust.Avax Lions is a collection of 10,000 unique and aesthetic NFTs on the Avalanche blockchain with unmatched utility in DeFi and the Metaverse. Boasting double rewards for holders in LYD and AVAX.",
+      "discordURI": "https://discord.gg/3cPkBeN4",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xfE8FCf6B03407FE7f4bf916E1649a662d1B2eE5D/logo.png",
+      "name": "Avax Lions",
+      "symbol": "AVAXLION",
+      "twitterURI": "https://twitter.com/AvaxLions",
+      "verified": "verified",
+      "websiteURI": "https://www.avaxlions.com/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
