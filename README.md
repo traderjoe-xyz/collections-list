@@ -64,3 +64,27 @@ You can in fact add files and change JSON file directly in github on browser.
 - When saving changes always select Pull Request (PR).
 - Name the branch after the collection you are adding or fixing, e.g. `add-APA` or `fix-APA`.
 - Don't worry about versioning.
+
+
+## NFT SZN
+
+**NFT SZN** is a campaign to promote Nft trading on our platform. When launched:
+- Partners agree to lower `% Royalty Fees` for their collections. 
+- Joepegs will lower `% Platform Fees` for participating partners. (default is 2.5%)
+- Participating partners will also receive a visible `NFT SZN` badge on the platform. 
+
+Participating partners will be configured as follows:
+
+```
+    "0x8ef...": {
+
+        "royaltyFee": 5, // 5% royalty fee
+
+        "nftSzn": {
+            royaltyFee: 0, // override 0% fee
+            platformFee: 0.5, // override 0.5% fee
+        }
+    },
+      
+```
+
