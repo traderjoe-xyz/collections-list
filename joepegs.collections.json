@@ -154,9 +154,9 @@
       "description": "An NFT avatar is required to play The Legend of Aurum Draconis. The higher your rank, the more starting stats you get to spend. This character gains experience and levels through our mini-games and is used throughout every layer coming up. As you level up, you receive new stat points to increase your avatar's value and chances of winning.",
       "discordURI": "https://discord.gg/dragoncryptogaming",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x2fFfFfB80eA0C59ca19258872351AE4a43facb37/logo.png",
-      "name": "Dragon Crypto Gaming",
+      "name": "Dragon Crypto Hero",
       "symbol": "",
-      "twitterURI": "https://twitter.com/DRGNCRYPTOGAMIN",
+      "twitterURI": "https://twitter.com/DCGgamefi",
       "verified": "verified",
       "websiteURI": "https://dragoncrypto.io/"
     },
@@ -302,6 +302,138 @@
       "twitterURI": "https://twitter.com/AvaxLions",
       "verified": "verified",
       "websiteURI": "https://www.avaxlions.com/"
+    },
+    "0x9f98ccebdb3138c0ebfbdc9b9b94e2683bdaf1fb": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9f98ccebdb3138c0ebfbdc9b9b94e2683bdaf1fb/banner.png",
+      "description": "NFTs backed and redeemable for precious metals",
+      "discordURI": "https://discord.gg/raptoriginz",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9f98ccebdb3138c0ebfbdc9b9b94e2683bdaf1fb/logo.png",
+      "name": "RaptOriginZ",
+      "symbol": "RAPTORIGINZ",
+      "twitterURI": "https://twitter.com/raptoriginz",
+      "verified": "verified",
+      "websiteURI": "https://novilunium.io/"
+    },
+    "0xec675b7c5471c67e9b203c6d1c604df28a89fb7f": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xec675b7c5471c67e9b203c6d1c604df28a89fb7f/banner.png",
+      "description": "A racing game on the #Avalanche network. Get your snails ready and join the fun!",
+      "discordURI": "https://discord.com/invite/fdSzTckDTx",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xec675b7c5471c67e9b203c6d1c604df28a89fb7f/logo.png",
+      "name": "Snail Trail ",
+      "symbol": "SNAIL",
+      "twitterURI": "https://twitter.com/SnailTrailGame",
+      "verified": "verified",
+      "websiteURI": "https://www.snailtrail.art/"
+    },
+    "0x8b5d2db7cdc60cc74972e922b48ba223b754d8c7": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8b5d2db7cdc60cc74972e922b48ba223b754d8c7/banner.png",
+      "description": "Crypto Dickheads are 5555 unique NFTs generated on avalanche.",
+      "discordURI": "https://discord.gg/cryptodickheads",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8b5d2db7cdc60cc74972e922b48ba223b754d8c7/logo.png",
+      "name": "Crypto Dickheads",
+      "symbol": "CDH",
+      "twitterURI": "https://twitter.com/dickheadscrypto",
+      "verified": "verified",
+      "websiteURI": "https://cryptodickheads.com/"
+    },
+    "0x73b0f47f8939de579d3308b2c1db531be490cf7f": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x73b0f47f8939de579d3308b2c1db531be490cf7f/banner.png",
+      "description": "What is the best way to build this metaverse We will give each player a horse to roam and explore the MetaDerby metaverse. With your free horse, you can race it, breed it, explore the land, build your farm, build your own race course, and create your own races with jockeys and even...chariots!",
+      "discordURI": "https://discord.com/invite/metaderby",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x73b0f47f8939de579d3308b2c1db531be490cf7f/logo.png",
+      "name": "Metaderby",
+      "symbol": "Derby",
+      "twitterURI": "https://twitter.com/metaderby",
+      "verified": "verified",
+      "websiteURI": "https://metaderby.com/"
+    },
+    "0x00f5d01d86008d14d04e29efe88dffc75a9cac47": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x00f5d01d86008d14d04e29efe88dffc75a9cac47/banner.png",
+      "description": "Not only is FarmLand your very own plot of land in the Chikn Metaverse, it’s an upgradable, interactive NFT that gamifies LP farming, and acts as a ‘home-base’ for all things Chikn-ecosystem.",
+      "discordURI": "https://discord.com/invite/9znHkBYjra",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x00f5d01d86008d14d04e29efe88dffc75a9cac47/logo.png",
+      "name": "Farmland",
+      "symbol": "FarmLand",
+      "twitterURI": "https://twitter.com/chikn_nft",
+      "verified": "verified",
+      "websiteURI": "https://chikn.farm/"
+    },
+    "0x001e68282d52dcaba3749291bac33a9678073d01": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x001e68282d52dcaba3749291bac33a9678073d01/banner.png",
+      "description": "Pizza Game is a Game-Fi project on the Avalanche Chain (AVAX). Our team has worked hard to create a fun P2E game that allows players to mix and match a ton of different strategies to find one that suits their play style and helps them crush the Pizza Industry.",
+      "discordURI": "https://discord.gg/pizzagame",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x001e68282d52dcaba3749291bac33a9678073d01/logo.png",
+      "name": "Pizza Game Chefs",
+      "symbol": "PIZZA-GAME-CHEF",
+      "twitterURI": "https://twitter.com/pizzadotgame",
+      "verified": "verified",
+      "websiteURI": "https://pizza.game/"
+    },
+    "0x76daaaf7711f0dc2a34bca5e13796b7c5d862b53": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x76daaaf7711f0dc2a34bca5e13796b7c5d862b53/banner.png",
+      "description": "High fidelity NFT collectibles designed to be staked to reward the user with tokens that control the mint of the next generation of monsters and beyond!",
+      "discordURI": "https://discord.com/invite/cW378HVjyY",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x76daaaf7711f0dc2a34bca5e13796b7c5d862b53/logo.png",
+      "name": "Hatchy Pocket",
+      "symbol": "HATCHIE",
+      "twitterURI": "https://twitter.com/HatchyPocket",
+      "verified": "verified",
+      "websiteURI": "https://hatchypocket.com/"
+    },
+    "0xa69fee085a4c38656ce9c37a064a330725307482": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xa69fee085a4c38656ce9c37a064a330725307482/banner.png",
+      "description": "Avalant is an Avalanche on-chain Play and Earn RPG game based on the very efficient Tri-Token architecture and playable by anyone. The game takes place on the anthill where 10,000 Ants NFTs work as a community to earn real value cryptocurrencies. Join the colony by buying an Ant NFT, start working and earn $ANTG (AntGold) salary paid by the QUEEN. Turn it to $SUGA for energy, dig to earn more and fight bosses 👾.",
+      "discordURI": "https://discord.gg/avalant",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xa69fee085a4c38656ce9c37a064a330725307482/logo.png",
+      "name": "Avalant",
+      "symbol": "ANT",
+      "twitterURI": "https://twitter.com/avalant_NFT",
+      "verified": "verified",
+      "websiteURI": "https://avalant.app/"
+    },
+    "0xc0b7b9cf081c8c37fe52402d15322d4c7d0bb1f6": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xc0b7b9cf081c8c37fe52402d15322d4c7d0bb1f6/banner.png",
+      "description": "Minting with Kindness, only possible on Avalanche! SOC is the anti-rug Social Club for a more kind and polite AVAX ecosystem",
+      "discordURI": "https://discord.com/invite/9BAjCjSRNA",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xc0b7b9cf081c8c37fe52402d15322d4c7d0bb1f6/logo.png",
+      "name": "Snake Oil Club",
+      "symbol": "SOC",
+      "twitterURI": "https://twitter.com/SnakeOilClub",
+      "verified": "verified",
+      "websiteURI": "https://medium.com/@0xurkel/snake-oil-club-d0c31c2a8fb2"
+    },
+    "0x65787a9abc4563316b20ce6c46d0f46f4e357c36": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x65787a9abc4563316b20ce6c46d0f46f4e357c36/banner.png",
+      "description": "We are a collection of 10.000 unique, randomly generated pepes hopping through the Avalanche blockchain.",
+      "discordURI": "https://discord.gg/fxjEbQCr",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x65787a9abc4563316b20ce6c46d0f46f4e357c36/logo.png",
+      "name": "Avapepes",
+      "symbol": "AVAPEPE",
+      "twitterURI": "https://twitter.com/avapepes",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+    "0x6aF53a162Deb0d3ABfd4F47Bd6c9615b08D553FD": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6aF53a162Deb0d3ABfd4F47Bd6c9615b08D553FD/banner.png",
+      "description": "An alternate universe where magic trees, towering castles, birds with weird eyes, and the 4th dimension are real. Come join the weirdness.",
+      "discordURI": "",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6aF53a162Deb0d3ABfd4F47Bd6c9615b08D553FD/logo.png",
+      "name": "Doodleverse",
+      "symbol": "DOODLE",
+      "twitterURI": "https://twitter.comtaptapkaboom",
+      "verified": "verified",
+      "websiteURI": "https://www.taptapkaboom.com/doodleverse/"
+    },
+    "0x07b9b285bbdc3489c2b58bc1ed67ef915561a20d": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x07b9b285bbdc3489c2b58bc1ed67ef915561a20d/banner.png",
+      "description": "Collected works of artist Burger Pics digital ink High-contrast creepy crawlies, monstermen and funky critters.",
+      "discordURI": "https://discord.gg/jrmvrCYr",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x07b9b285bbdc3489c2b58bc1ed67ef915561a20d/logo.png",
+      "name": "Burger Pics",
+      "symbol": "BPIX",
+      "twitterURI": "https://twitter.com/picsburger",
+      "verified": "verified",
+      "websiteURI": ""
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
