@@ -77,12 +77,16 @@ Participating partners will be configured as follows:
 
 ```
     "0x8ef...": {
+        ...,
 
-        "royaltyFee": 5, // 5% royalty fee
-
+        // nftSzn config is for front-end display only:
+        //      royalty fee:  ~~5%~~    2.5%
+        //      platform fee: ~~2.5%~~  0%
         "nftSzn": {
-            royaltyFee: 0, // override 0% fee
-            platformFee: 0.5, // override 0.5% fee
+            "royaltyFee":           0.05,       // regular 5% royalty fee
+            "campaignRoyaltyFee":   0.025,      // campaign 2.5% fee
+            "platformFee":          0.025,      // regular 2.5% platform fee
+            "campaignPlatformFee":  0,          // campaign 0% platform fee
         }
     },
       
