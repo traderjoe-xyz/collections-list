@@ -445,6 +445,28 @@
       "twitterURI": "https://twitter.com/AvaCuteAnimal",
       "verified": "verified",
       "websiteURI": ""
+    },
+    "0x9811eb6bfe8225833315ca5a2a13ebc9c249bc49": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9811eb6bfe8225833315ca5a2a13ebc9c249bc49/banner.png",
+      "description": "Humonster I call them, they are inspired from real bad people I meet in real life. I turn these humans into colors and shapes to digest them back again.",
+      "discordURI": "https://discord.gg/R6YM2PjEq3",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9811eb6bfe8225833315ca5a2a13ebc9c249bc49/logo.png",
+      "name": "EsoTeros",
+      "symbol": "ESO",
+      "twitterURI": "https://twitter.com/TerosEso",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+    "0xa695ea0C90D89a1463A53Fa7a02168Bc46FbBF7e": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xa695ea0C90D89a1463A53Fa7a02168Bc46FbBF7e/banner.png",
+      "description": "Castle Crush is a mobile, free-to-play, real-time strategy game developed by Wildlife Studios. Ascended and Founder Chests contain playable NFT cards which generate $ACS through gameplay.",
+      "discordURI": "discord.gg/castlecrush",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xa695ea0C90D89a1463A53Fa7a02168Bc46FbBF7e/logo.png",
+      "name": "Castle Crush",
+      "symbol": "",
+      "twitterURI": "https://twitter.com/playcastlecrush",
+      "verified": "verified",
+      "websiteURI": "https://castlecrushgame.com/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
