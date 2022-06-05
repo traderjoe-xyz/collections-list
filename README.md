@@ -34,7 +34,7 @@ Add collection info to the `joepegs.collections.json` like the below example.
 
 4. Add `banner.png` into the location like `images/<address>/banner.png`.
 
-- Should be `1440x700px` size
+- Should be `1440x240px` size
 - **must** be renamed `banner.png`
 
 5. Add `logo.png` into the location like `images/<address>/logo.png`.
@@ -65,13 +65,13 @@ You can in fact add files and change JSON file directly in github on browser.
 - Name the branch after the collection you are adding or fixing, e.g. `add-APA` or `fix-APA`.
 - Don't worry about versioning.
 
-
 ## NFT SZN
 
 **NFT SZN** is a campaign to promote Nft trading on our platform. When launched:
-- Partners agree to lower `% Royalty Fees` for their collections. 
+
+- Partners agree to lower `% Royalty Fees` for their collections.
 - Joepegs will lower `% Platform Fees` for participating partners. (default is 2.5%)
-- Participating partners will also receive a visible `NFT SZN` badge on the platform. 
+- Participating partners will also receive a visible `NFT SZN` badge on the platform.
 
 Participating partners will be configured as follows:
 
@@ -89,6 +89,5 @@ Participating partners will be configured as follows:
             "campaignPlatformFee":  0,          // campaign 0% platform fee
         }
     },
-      
-```
 
+```
