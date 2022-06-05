@@ -91,3 +91,26 @@ Participating partners will be configured as follows:
     },
 
 ```
+
+## Artist Showcase
+
+**Showcase** is a feature to promote visibility for unique NFTs on our homepage.
+
+- It shows artist NFT on homepage carousel.
+- When clicked, it can direct to an external URL belonging to the artist.
+- To apply, partners have to post link to nft and tag us on twitter or instagram.
+- Ops team select for the list, to be updated e.g. weekly.
+- Suggest no more than 7 items.
+
+```
+showcase: [
+    {
+        // <collectionId>-<tokenId>
+	    itemId: '0x6af53a162deb0d3abfd4f47bd6c9615b08d553fd-51',
+        // any URL
+    	externalUrl: 'https://artist.website.com'
+    }
+]
+```
+
+**VERY IMPT** should ensure external URL doesn't have any malicious code.
