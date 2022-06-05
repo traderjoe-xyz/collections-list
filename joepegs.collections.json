@@ -610,6 +610,17 @@
       "twitterURI": "https://twitter.com/LuckyDaoNFT",
       "verified": "verified",
       "websiteURI": "https://luckydaonft.com/"
+    },
+    "0x9722afb71c40e28089cb9e00c7d35b202b002a9e": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images//banner.png",
+      "description": "Metamorph is a generative art collection on Avalanche with 500 unique pieces. Each Metamorph is so unique, comes with generatively selected node numbers on metamorphs, color palette, layout, background colors, and some touches with different shapes.",
+      "discordURI": "https://discord.gg/CKMqEAgsxG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images//logo.png",
+      "name": "Metamorph",
+      "symbol": "META",
+      "twitterURI": "https://twitter.com/metamorph_nft",
+      "verified": "verified",
+      "websiteURI": "https://www.metamorphnft.art/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
