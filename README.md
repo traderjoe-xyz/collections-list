@@ -107,6 +107,8 @@ showcase: [
     {
         // <collectionId>-<tokenId>
 	    itemId: '0x6af53a162deb0d3abfd4f47bd6c9615b08d553fd-51',
+        title: 'Proud Kitty Gang',
+        description: '6,666 proud and dope kitty gang',
         // any URL
     	externalUrl: 'https://artist.website.com'
     }
