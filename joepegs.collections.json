@@ -665,6 +665,39 @@
       "twitterURI": "https://twitter.com/hodl_avax",
       "verified": "verified",
       "websiteURI": ""
+    },
+    "0x9Aa17dEa4de8686Aef2F844A32B4E89E1d3DD023": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9Aa17dEa4de8686Aef2F844A32B4E89E1d3DD023/banner.png",
+      "description": "The Mutant-Skellies collection will be built on top of this existing community, launching on June 7th in Avalanche🔺, This collection will have different perks and skills making them valuable and unique, besides their rarity. By holding any Skellie you will be able to earn rewards for fighting in the Arena, boost your rewards by joining the Undead Secret Society, get fees for lending your Skellies, proceeds from selling in-game crafted NFTs, and passive income through holding Genesis or Mutant-Skellies, LP provider incentives, rewards from the Rituals, rewards for the top-performing Skellies on the Arena, staking $SOUL & $UMNA token, airdrops, being active in the community, puzzles and many more! Mutant-Skellies will be a limited collection of 1111 to maintain the ecosystem since they are able to poison Genesis Skellies and get 20% of their passive $SOUL yield.",
+      "discordURI": "https://discord.gg/metaskellies",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9Aa17dEa4de8686Aef2F844A32B4E89E1d3DD023/logo.png",
+      "name": "Mutant Skellies",
+      "symbol": "MUTANTS",
+      "twitterURI": "https://twitter.com/MetaSkellies",
+      "verified": "verified",
+      "websiteURI": "https://www.metaskellies.com/"
+    },
+    "0xbab898bed4152ee4865c2519008fad2fc127590a": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xbab898bed4152ee4865c2519008fad2fc127590a/banner.png",
+      "description": "The MBApes Academy is a community dedicated to onboarding and educating the next generation of leaders in Web3. Our student body is made up of 4,444 star pupils enlisted on the Avalanche Blockchain. ",
+      "discordURI": "https://discord.com/invite/UUVQzshqhf",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xbab898bed4152ee4865c2519008fad2fc127590a/logo.png",
+      "name": "MBApes Academy",
+      "symbol": "MBA",
+      "twitterURI": "https://twitter.com/MBApesNFT",
+      "verified": "verified",
+      "websiteURI": "https://mbapesacademy.com/"
+    },
+    "0x7600088FB72941A9139669D7F6Cb4E717ec05C87": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x7600088FB72941A9139669D7F6Cb4E717ec05C87/banner.png",
+      "description": "Party Gals are coming to crush the party",
+      "discordURI": "https://discord.gg/qK5VsN4z",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x7600088FB72941A9139669D7F6Cb4E717ec05C87/logo.png",
+      "name": "APA Gals",
+      "symbol": "APAG",
+      "twitterURI": "https://twitter.com/apa_nft",
+      "verified": "verified",
+      "websiteURI": "https://partyanimalsxyz.com/gals"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
