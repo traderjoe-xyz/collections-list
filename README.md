@@ -105,7 +105,8 @@ Participating partners will be configured as follows:
 ```
 showcase: [
     {
-	image: 
+    	// add the image in `/images/artist-showcase/` and copy the image address
+	imageUrl: 'https://raw.githubusercontent.com/traderjoe-xyz/collections-list/0cc7864ca87cb190775ac790102e63f5b3bd0dff/images/artist-showcase/doodleverse.png'
         title: 'Proud Kitty Gang',
         description: '6,666 proud and dope kitty gang',
         // any URL
