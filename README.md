@@ -97,7 +97,7 @@ Participating partners will be configured as follows:
 **Showcase** is a feature to promote visibility for unique NFTs on our homepage.
 
 - It shows artist NFT on homepage carousel.
-- When clicked, it can direct to an external URL belonging to the artist.
+- When clicked, it can direct to an external URL belonging to the artist or an internal joepegs page.
 - To apply, partners have to post link to nft and tag us on twitter or instagram.
 - Ops team select for the list, to be updated e.g. weekly.
 - Suggest no more than 7 items.
@@ -105,12 +105,12 @@ Participating partners will be configured as follows:
 ```
 showcase: [
     {
-        // <collectionId>-<tokenId>
-	    itemId: '0x6af53a162deb0d3abfd4f47bd6c9615b08d553fd-51',
+    	// add the image in `/images/artist-showcase/`
+	imageUrl: 'https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/artist-showcase/doodleverse.png'
         title: 'Proud Kitty Gang',
         description: '6,666 proud and dope kitty gang',
         // any URL
-    	externalUrl: 'https://artist.website.com'
+    	url: 'https://artist.website.com' | 'https://joepegs.com/collections/doodleverse'
     }
 ]
 ```
