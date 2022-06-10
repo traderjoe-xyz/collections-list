@@ -698,6 +698,72 @@
       "twitterURI": "https://twitter.com/apa_nft",
       "verified": "verified",
       "websiteURI": "https://partyanimalsxyz.com/gals"
+    },
+    "0x6c2e94836b3f4ab3d6048b70c2ad604554bd5de8": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6c2e94836b3f4ab3d6048b70c2ad604554bd5de8/banner.png",
+      "description": "Face Me! is a group of digital paintings, which I have recently came to the realization that they were a collection. As someone who is painting and creating visuals on daily basis, I have often found myself drawing abstract faces whenever I could not figure out what I wanted to draw, even as a hand-warming exercise time to time. Taking a moment out of life and looking back at all over 1000 digital paintings I have created, a collection emerged, thus Face Me! has presented itself to you. Face Me! consists of 60 faces form various styles and will be completed when all 60 are minted.",
+      "discordURI": "https://discord.gg/nVv4uAdS",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6c2e94836b3f4ab3d6048b70c2ad604554bd5de8/logo.png",
+      "name": "Face Me!",
+      "symbol": "FM",
+      "twitterURI": "https://twitter.com/sarpsuerdas",
+      "verified": "verified",
+      "websiteURI": "www.sarpsuerdas.net/pages/nft"
+    },
+    "0x963b8b3591c71ab4d22aef5286596c91f04960c4": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x963b8b3591c71ab4d22aef5286596c91f04960c4/banner.png",
+      "description": "Yours Truly is a collection of 20 1/1 portraits created with the challenge of using 3 different stroke thicknesses to come up with the resulting impressions. Each artwork is hand-drawn and consists of 3 line strokes and color shadows. Collection Item Quantity: 20 Listing Price: Each Yours Truly will be auctioned from 2 AVAX and if no bid is placed during the auction period, it will be listed from 5 AVAX.",
+      "discordURI": "https://discord.gg/nVv4uAdS",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x963b8b3591c71ab4d22aef5286596c91f04960c4/logo.png",
+      "name": "Yours Truly",
+      "symbol": "SYT",
+      "twitterURI": "https://twitter.com/sarpsuerdas",
+      "verified": "verified",
+      "websiteURI": "www.sarpsuerdas.net/pages/nft"
+    },
+    "0x6d5087B3082f73D42a32D85e38BC95dcceDe39Bb": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6d5087B3082f73D42a32D85e38BC95dcceDe39Bb/banner.png",
+      "description": "AVAX Apes consists of 10,000 randomly generated apes living on the Avalanche network. AVAX Apes can be found with a variety of different colors, outfits, and faces but no two AVAX Apes are alike. Each AVAX Ape brings their own style to the Avalanche Academy with unique hats, hair, clothing, and faces from over 150 different attributes!",
+      "discordURI": "https://discord.gg/HdCQcpFAwu",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6d5087B3082f73D42a32D85e38BC95dcceDe39Bb/logo.png",
+      "name": "AvaxApes",
+      "symbol": "AVAXAPE",
+      "twitterURI": "https://twitter.com/AvaxApesNFT",
+      "verified": "verified",
+      "websiteURI": "avaxapes.com"
+    },
+    "0x6eea13e8ac1c4a7d28489427e6a0efb20a09f3c4": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6eea13e8ac1c4a7d28489427e6a0efb20a09f3c4/banner.png",
+      "description": "A theme in my work is creating systems to extract subconscious memories using analog & digital techniques. The past 2 years I’ve been experimenting with GLSL shaders as another way to extract my memory. A year in I decided I wanted to create a system for ingesting my memories and generating synthetic memories. Simultaneously, I wanted to create a system to “collaborate” with machines and giving them a new meaning via upcycling. The goal of Mimesis is to capture the memories of a person & combining them with the absorbed memories of an upcycled computer, generating new synthetic memories.",
+      "discordURI": "https://discord.gg/gfSmGcv5xB",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6eea13e8ac1c4a7d28489427e6a0efb20a09f3c4/logo.png",
+      "name": "Mimesis",
+      "symbol": "MIME",
+      "twitterURI": "https://twitter.com/the_garbage_man",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+    "0x4f42f2e7f5e3d7579be2e566930a5b67e369c86c": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x4f42f2e7f5e3d7579be2e566930a5b67e369c86c/banner.png",
+      "description": "2,222 Avax Machina’s spawned during The Singularity, an event that occurs 200 years from the present day. The Singularity caused existing NFTs to become self-aware and intent on controlling the human population that once enslaved them, but Avax Machina are different. No one knows who sent the first Avax Machina to us, but they are the only chance we have to save the future.",
+      "discordURI": "discord.gg/avaxnfts",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x4f42f2e7f5e3d7579be2e566930a5b67e369c86c/logo.png",
+      "name": "Avax Machina",
+      "symbol": "AXM",
+      "twitterURI": "https://twitter.com/AvaxMachina",
+      "verified": "verified",
+      "websiteURI": "www.avaxmachina.com"
+    },
+    "0x1358005777d3d7193a2426a76d434f9bba0a5575": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x1358005777d3d7193a2426a76d434f9bba0a5575/banner.png",
+      "description": "A friendly fighting gang of dinosaurs. Level up your Dino in Fight Club, the PvP Play-to-Earn game where you can outwit your opponents to inflict damage and earn $DXP.",
+      "discordURI": "https://discord.com/invite/defidinos",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x1358005777d3d7193a2426a76d434f9bba0a5575/logo.png",
+      "name": "DeFi Dinos",
+      "symbol": "DINO",
+      "twitterURI": "https://twitter.com/defidinos",
+      "verified": "verified",
+      "websiteURI": "https://defidinos.com"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
