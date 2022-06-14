@@ -145,7 +145,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6caD7faa3F17e2E845cbf6dEFeBDaE44484d448e/logo.png",
       "name": "Toonlands Metaverse",
       "symbol": "Toonlands",
-      "twitterURI": "http://twitter.com/playumm",
+      "twitterURI": "https://twitter.com/PlayToonlands",
       "verified": "verified",
       "websiteURI": "https://mint.toonlands.com/"
     },
@@ -421,7 +421,7 @@
       "name": "Doodleverse",
       "symbol": "DOODLE",
       "twitterURI": "https://twitter.com/taptapkaboom",
-      "verified": "verified",
+      "verified": "verified_trusted",
       "websiteURI": "https://www.taptapkaboom.com/doodleverse/"
     },
     "0x07b9b285bbdc3489c2b58bc1ed67ef915561a20d": {
@@ -764,6 +764,72 @@
       "twitterURI": "https://twitter.com/defidinos",
       "verified": "verified",
       "websiteURI": "https://defidinos.com"
+    },
+    "0x8f136d5cfb7b79bde9e4b95c51e01cb23ffe7f41": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8f136d5cfb7b79bde9e4b95c51e01cb23ffe7f41/banner.png",
+      "description": "First Spacefullthoughts NFT collection named SpacefullNFT, contains unique artworks produced by Spacefullthoughts. Half helmet Aliens,Humans,Animals ; in short, all kinds of species from across the universe are part of SpacefullNFT gang.",
+      "discordURI": "",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x8f136d5cfb7b79bde9e4b95c51e01cb23ffe7f41/logo.png",
+      "name": "SpacefullNFT",
+      "symbol": "SPNFT",
+      "twitterURI": "https://twitter.com/spacefullart",
+      "verified": "verified",
+      "websiteURI": "https://www.spacefullthoughts.com/"
+    },
+    "0xcb92c393cc811b8c39c0ae2f8d70d1df32342edb": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xcb92c393cc811b8c39c0ae2f8d70d1df32342edb/banner.png",
+      "description": "Biacrypto was established in the first quarter of 2022. The founder of the Biacrypto character is artpixcrypto. A total of 98 pieces will be produced from the Biacrypto series. 98 biacrypto series will consist of photos, videos and gifs. At the same time, if the game manufacturers contact us, we can use this character to create digital games.",
+      "discordURI": "https://discord.gg/Srn4475YRR",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xcb92c393cc811b8c39c0ae2f8d70d1df32342edb/logo.png",
+      "name": "Biacrypto",
+      "symbol": "BIC",
+      "twitterURI": "https://twitter.com/pixartcrypto",
+      "verified": "verified",
+      "websiteURI": "https://artpixcrypto.com/"
+    },
+    "0x28da3f75423073945090c8981d211f37e661c57e": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x28da3f75423073945090c8981d211f37e661c57e/banner.png",
+      "description": "New collection from the maker of Biacrypto. Bia Family. 🔥 There will be more than one character in the Bia Family collection and animations will be added to these characters. 🔥 Here comes the Bia family! 🔺",
+      "discordURI": "https://discord.gg/Srn4475YRR",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x28da3f75423073945090c8981d211f37e661c57e/logo.png",
+      "name": "Bia Family",
+      "symbol": "BIF",
+      "twitterURI": "https://twitter.com/pixartcrypto",
+      "verified": "verified",
+      "websiteURI": "https://www.artpixcrypto.com/"
+    },
+    "0x486b92778b4724d6eccd8e3742748c5e69005e9f": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x486b92778b4724d6eccd8e3742748c5e69005e9f/banner.png",
+      "description": "%100 handdrawn Art Collection, Total 100pcs My Nft collection's not only a project to be sold. I admired the nature from when i feel myself I'd like to do smth for the nature and nowadays the humanity is built our new world Metaverse,NFTs. And i said to myself, Who am I? I'm a person who is an artist and only have a pen So i decided to create this collection to be a mirror between NFT world and old world's nature. And the best part of this ecology is bugs,mushrooms and their deep world",
+      "discordURI": "https://discord.com/invite/7PrJSrWnyU",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x486b92778b4724d6eccd8e3742748c5e69005e9f/logo.png",
+      "name": "Deepbugs",
+      "symbol": "BUGS",
+      "twitterURI": "https://twitter.com/deepbugs_nft",
+      "verified": "verified",
+      "websiteURI": "https://deepbugs.art/"
+    },
+    "0x371DB9A9E4b5E2201cdF220655C4905EE59157af": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x371DB9A9E4b5E2201cdF220655C4905EE59157af/banner.png",
+      "description": "The evil dragon is back, raise your shield and protect Degis Kingdom!Degis NFT is a collection of 499 Degis warrior avatars, 99 of which will be hand drawn and designed by the community members, and 400 will be generated by the team designers. The NFTs will be the PFP ( picture for proof and profile pic) for Degis community and also a DAO Pass of Degis platform.",
+      "discordURI": "https://discord.gg/7TPnqehjA5",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x371DB9A9E4b5E2201cdF220655C4905EE59157af/logo.png",
+      "name": "Degis Warriors",
+      "symbol": "DegisNFT",
+      "twitterURI": "https://twitter.com/ProjectDegis",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+    "0x1fc0d76db971f0d8001fdb72d11ad552c62c9fd9": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x1fc0d76db971f0d8001fdb72d11ad552c62c9fd9/banner.png",
+      "description": "🍯 Sponsor beehives 🙌 Support charities 🎮 Get ready for the Hive Wars",
+      "discordURI": "https://dsc.gg/hivefive",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x1fc0d76db971f0d8001fdb72d11ad552c62c9fd9/logo.png",
+      "name": "HiveFive",
+      "symbol": "HF",
+      "twitterURI": "https://twitter.com/HiveFiveNFT",
+      "verified": "verified",
+      "websiteURI": "https://hivefive.bz/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
