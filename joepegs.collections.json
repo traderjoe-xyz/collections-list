@@ -174,13 +174,13 @@
     "0x3c965d9fcaf231f434186e9cf0c1e179307cd211": {
       "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x3c965d9fcaf231f434186e9cf0c1e179307cd211/banner.png",
       "description": "2,605 predator sharks bootstrapping a wagering platform with royalties for holders",
-      "discordURI": "discord.gg/F3v8R55kpM",
+      "discordURI": "https://discord.gg/F3v8R55kpM",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x3c965d9fcaf231f434186e9cf0c1e179307cd211/logo.png",
       "name": "Ava Sharks",
       "symbol": "AVAS",
       "twitterURI": "https://twitter.com/Avasharks",
       "verified": "verified",
-      "websiteURI": "avasharks.io"
+      "websiteURI": "https://avasharks.io"
     },
     "0x260d5af5b1c9f2c8ba129d0405a4db4b1e98d6bd": {
       "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x260d5af5b1c9f2c8ba129d0405a4db4b1e98d6bd/banner.png",
@@ -885,6 +885,17 @@
       "twitterURI": "https://twitter.com/100Heures",
       "verified": "verified",
       "websiteURI": "https://www.instagram.com/100h__/?hl=fr"
+    },
+    "0xe2c13aadb000a58f4348313f346b0f01cef95332": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xe2c13aadb000a58f4348313f346b0f01cef95332/banner.png",
+      "description": "Degens, ready to ride that rollercoaster and build together.",
+      "discordURI": "https://discord.gg/dPjafDngvc",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xe2c13aadb000a58f4348313f346b0f01cef95332/logo.png",
+      "name": "DegenFrogs",
+      "symbol": "DGN",
+      "twitterURI": "https://twitter.com/degenfrogs",
+      "verified": "verified",
+      "websiteURI": "https://www.degenfrogs.com/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
