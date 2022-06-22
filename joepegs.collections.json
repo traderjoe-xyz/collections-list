@@ -896,6 +896,28 @@
       "twitterURI": "https://twitter.com/degenfrogs",
       "verified": "verified",
       "websiteURI": "https://www.degenfrogs.com/"
+    },
+    "0xc4252cadeff39a78d92b3150f08e4cadf88a8095": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xc4252cadeff39a78d92b3150f08e4cadf88a8095/banner.png",
+      "description": "The 100 Web Characters project is a collection of 100 illustrated (and sometimes animated) characters and their stories.",
+      "discordURI": "",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xc4252cadeff39a78d92b3150f08e4cadf88a8095/logo.png",
+      "name": "100 Web Characters",
+      "symbol": "100WEBCHARS",
+      "twitterURI": "https://twitter.com/taptapkaboom",
+      "verified": "verified",
+      "websiteURI": "https://www.taptapkaboom.com/"
+    },
+    "0x75f9d8a79168043e8680fef82cc423bf4342b8b6": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x75f9d8a79168043e8680fef82cc423bf4342b8b6/banner.png",
+      "description": "An iconic design series consisting of skeletons of real life and fictional characters. Various colors and forms in a Neo Expressionist style.",
+      "discordURI": "",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x75f9d8a79168043e8680fef82cc423bf4342b8b6/logo.png",
+      "name": "CryptoRibs",
+      "symbol": "RIBS",
+      "twitterURI": "https://twitter.com/RibsCrypto",
+      "verified": "verified",
+      "websiteURI": "https://www.instagram.com/cemguventurk/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
