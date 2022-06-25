@@ -918,6 +918,17 @@
       "twitterURI": "https://twitter.com/RibsCrypto",
       "verified": "verified",
       "websiteURI": "https://www.instagram.com/cemguventurk/"
+    },
+    "0x797ac669a1908ca68cd9854994345f570495541a": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x797ac669a1908ca68cd9854994345f570495541a/banner.png",
+      "description": "Avvy Domains is a naming service designed to support the Avalanche ecosystem and its various subnets.",
+      "discordURI": "https://discord.gg/mn5un9mUqq",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x797ac669a1908ca68cd9854994345f570495541a/logo.png",
+      "name": "Avvy Domains",
+      "symbol": "AVVY",
+      "twitterURI": "https://twitter.com/avvydomains",
+      "verified": "verified",
+      "websiteURI": "https://avvy.domains"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
