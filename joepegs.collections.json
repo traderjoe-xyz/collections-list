@@ -600,7 +600,7 @@
       "verified": "verified",
       "websiteURI": "https://www.brainfts.io/"
     },
-    "0x51715d58411726ec63227E1C2acB6f8cAad07169": {
+    "0x62edA5c03C55f6a2fC0529bAbA582E8D3f38ad4C": {
       "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x51715d58411726ec63227E1C2acB6f8cAad07169/banner.png",
       "description": "The unique 5555 Lucky-Dao NFT living in the world of Avalanche ",
       "discordURI": "discord.gg/luckydao",
@@ -665,17 +665,6 @@
       "twitterURI": "https://twitter.com/hodl_avax",
       "verified": "verified",
       "websiteURI": ""
-    },
-    "0x9Aa17dEa4de8686Aef2F844A32B4E89E1d3DD023": {
-      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9Aa17dEa4de8686Aef2F844A32B4E89E1d3DD023/banner.png",
-      "description": "The Mutant-Skellies collection will be built on top of this existing community, launching on June 7th in Avalanche🔺, This collection will have different perks and skills making them valuable and unique, besides their rarity. By holding any Skellie you will be able to earn rewards for fighting in the Arena, boost your rewards by joining the Undead Secret Society, get fees for lending your Skellies, proceeds from selling in-game crafted NFTs, and passive income through holding Genesis or Mutant-Skellies, LP provider incentives, rewards from the Rituals, rewards for the top-performing Skellies on the Arena, staking $SOUL & $UMNA token, airdrops, being active in the community, puzzles and many more! Mutant-Skellies will be a limited collection of 1111 to maintain the ecosystem since they are able to poison Genesis Skellies and get 20% of their passive $SOUL yield.",
-      "discordURI": "https://discord.gg/metaskellies",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x9Aa17dEa4de8686Aef2F844A32B4E89E1d3DD023/logo.png",
-      "name": "Mutant Skellies",
-      "symbol": "MUTANTS",
-      "twitterURI": "https://twitter.com/MetaSkellies",
-      "verified": "verified",
-      "websiteURI": "https://www.metaskellies.com/"
     },
     "0xbab898bed4152ee4865c2519008fad2fc127590a": {
       "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xbab898bed4152ee4865c2519008fad2fc127590a/banner.png",
@@ -929,6 +918,39 @@
       "twitterURI": "https://twitter.com/avvydomains",
       "verified": "verified",
       "websiteURI": "https://avvy.domains"
+    },
+    "0xC70DF87e1d98f6A531c8E324C9BCEC6FC82B5E8d": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xC70DF87e1d98f6A531c8E324C9BCEC6FC82B5E8d/banner.png",
+      "description": "Launched as a FREE MINT. 100 Smol Joes, hand-drawn with love and care by a friendly neighbourhood artist. Don’t bother asking for a roadmap. Paperhands not gonna to make it - Smol Joes to the moon.",
+      "discordURI": "http://discord.gg/TraderJoe",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xC70DF87e1d98f6A531c8E324C9BCEC6FC82B5E8d/logo.png",
+      "name": "Smol Joes",
+      "symbol": "SMOL",
+      "twitterURI": "https://twitter.com/joepegsnft",
+      "verified": "verified",
+      "websiteURI": "https://joepegs.com"
+    },
+    "0xcf7e8df50150354e76e4c9f9008b0636b1b71274": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xcf7e8df50150354e76e4c9f9008b0636b1b71274/banner.png",
+      "description": "Animeird is the home-town of weird 1/1 animations who think they have no difference at all with the well-known animations we all see everyday. Don't get me wrong this is not a metaverse or even a universe, this is just a town of weird animations that is getting crowded by day.",
+      "discordURI": "https://discord.gg/nVv4uAdS",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xcf7e8df50150354e76e4c9f9008b0636b1b71274/logo.png",
+      "name": "Animeird",
+      "symbol": "SANM",
+      "twitterURI": "https://twitter.com/sarpsuerdas",
+      "verified": "verified",
+      "websiteURI": "https://sarpsuerdas.net/pages/nft"
+    },
+    "0x92618c4c8ef2534242cabed0614ab8b89ef2dc52": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x92618c4c8ef2534242cabed0614ab8b89ef2dc52/banner.png",
+      "description": "",
+      "discordURI": "discord.gg/teensonacid",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x92618c4c8ef2534242cabed0614ab8b89ef2dc52/logo.png",
+      "name": " Beenz On Acid",
+      "symbol": "BENZ",
+      "twitterURI": "https://twitter.com/TEENSONACID",
+      "verified": "verified",
+      "websiteURI": "https://teensonacid.portfoliobox.net/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
