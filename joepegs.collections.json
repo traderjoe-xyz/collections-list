@@ -416,7 +416,7 @@
     "0x6aF53a162Deb0d3ABfd4F47Bd6c9615b08D553FD": {
       "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6aF53a162Deb0d3ABfd4F47Bd6c9615b08D553FD/banner.png",
       "description": "An alternate universe where magic trees, towering castles, birds with weird eyes, and the 4th dimension are real. Come join the weirdness.",
-      "discordURI": "",
+      "discordURI": "https://discord.com/invite/TkctpkBu8A",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x6aF53a162Deb0d3ABfd4F47Bd6c9615b08D553FD/logo.png",
       "name": "Doodleverse",
       "symbol": "DOODLE",
@@ -889,7 +889,7 @@
     "0xc4252cadeff39a78d92b3150f08e4cadf88a8095": {
       "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xc4252cadeff39a78d92b3150f08e4cadf88a8095/banner.png",
       "description": "The 100 Web Characters project is a collection of 100 illustrated (and sometimes animated) characters and their stories.",
-      "discordURI": "",
+      "discordURI": "https://discord.com/invite/TkctpkBu8A",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xc4252cadeff39a78d92b3150f08e4cadf88a8095/logo.png",
       "name": "100 Web Characters",
       "symbol": "100WEBCHARS",
@@ -951,6 +951,17 @@
       "twitterURI": "https://twitter.com/TEENSONACID",
       "verified": "verified",
       "websiteURI": "https://teensonacid.portfoliobox.net/"
+    },
+    "0x17d11b8802bd5ed3fcc838be353d927b4983c2de": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x17d11b8802bd5ed3fcc838be353d927b4983c2de/banner.png",
+      "description": "Happy Sun is a beloved character from The Doodleverse, who has magic powers and puts everyone in a good mood.",
+      "discordURI": "https://discord.com/invite/TkctpkBu8A",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x17d11b8802bd5ed3fcc838be353d927b4983c2de/logo.png",
+      "name": "Happy Sun",
+      "symbol": "HS",
+      "twitterURI": "https://twitter.com/0xHappySun",
+      "verified": "verified",
+      "websiteURI": "https://www.taptapkaboom.com/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
