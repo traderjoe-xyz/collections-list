@@ -962,6 +962,17 @@
       "twitterURI": "https://twitter.com/0xHappySun",
       "verified": "verified",
       "websiteURI": "https://www.taptapkaboom.com/"
+    },
+    "0x7F520f21Db04bd297E3CF3937711dD3132c9a6d2": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x7F520f21Db04bd297E3CF3937711dD3132c9a6d2/banner.png",
+      "description": "Owloper is community oriented project that includes a fully on-chain game in it. Let's build together and make the world a better place",
+      "discordURI": "https://discord.gg/owloper",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x7F520f21Db04bd297E3CF3937711dD3132c9a6d2/logo.png",
+      "name": "Owloper",
+      "symbol": "OWL",
+      "twitterURI": "https://twitter.com/owloper",
+      "verified": "verified",
+      "websiteURI": "https://owloper.com"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
