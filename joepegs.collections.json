@@ -1248,6 +1248,17 @@
       "twitterURI": "https://www.twitter.com/tubbyreindeer",
       "verified": "verified",
       "websiteURI": "https://www.tubbyreindeer.xyz"
+    },
+    "0x68f560b5b9a3807e7c6543ec17e185b4ae611bfb": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x68f560b5b9a3807e7c6543ec17e185b4ae611bfb/banner.png",
+      "description": "serious art",
+      "discordURI": "",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x68f560b5b9a3807e7c6543ec17e185b4ae611bfb/logo.png",
+      "name": "Satoverse",
+      "symbol": "SATO",
+      "twitterURI": "https://twitter.com/nft_sato",
+      "verified": "verified",
+      "websiteURI": ""
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
