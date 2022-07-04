@@ -1259,6 +1259,17 @@
       "twitterURI": "https://twitter.com/nft_sato",
       "verified": "verified",
       "websiteURI": ""
+    },
+    "0x77e0459eb2fefa3c772a7fabe45c746377b1ed10": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x77e0459eb2fefa3c772a7fabe45c746377b1ed10/banner.png",
+      "description": "Launched as a free mint. 200 Smol Land NFTs with 8 rarity tiers, drawn with love by your friendly neighbourhood artist - creator of Smol Joes. Still no roadmap, paper hands are definitely not going to make it. Smol Land to the moon.",
+      "discordURI": "https://discord.gg/Nf6tXZrCQr",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x77e0459eb2fefa3c772a7fabe45c746377b1ed10/logo.png",
+      "name": "Smol Land",
+      "symbol": "SMOLLAND",
+      "twitterURI": "https://twitter.com/Smol_Joes",
+      "verified": "verified",
+      "websiteURI": "https://joepegs.com/"
     }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
