@@ -1270,7 +1270,19 @@
       "twitterURI": "https://twitter.com/Smol_Joes",
       "verified": "verified",
       "websiteURI": "https://joepegs.com/"
-    }
+    },
+    
+    "0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70": {
+"bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70/banner.png",
+"description": "A free mint for those who are here for the art. For the people. For the culture. For the love of NFTs.",
+"discordURI": "",
+"logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70/logo.png",
+"name": "HERE FOR THE ART",
+"symbol": "HFTA",
+"twitterURI": "https://twitter.com/maevesta_ ",
+"verified": "verified",
+"websiteURI": ""
+}
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
 }
