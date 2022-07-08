@@ -1271,18 +1271,39 @@
       "verified": "verified",
       "websiteURI": "https://joepegs.com/"
     },
-    
     "0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70": {
-"bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70/banner.png",
-"description": "A free mint for those who are here for the art. For the people. For the culture. For the love of NFTs.",
-"discordURI": "",
-"logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70/logo.png",
-"name": "HERE FOR THE ART",
-"symbol": "HFTA",
-"twitterURI": "https://twitter.com/maevesta_ ",
-"verified": "verified",
-"websiteURI": ""
-}
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70/banner.png",
+      "description": "A free mint for those who are here for the art. For the people. For the culture. For the love of NFTs.",
+      "discordURI": "",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xFDcE342B6BAb6Fa3Aa29e039ff2e39EcE684ff70/logo.png",
+      "name": "HERE FOR THE ART",
+      "symbol": "HFTA",
+      "twitterURI": "https://twitter.com/maevesta_ ",
+      "verified": "verified",
+      "websiteURI": ""
+    },
+    "0x357928B721890Ed007142e45502A323827caF812": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x357928B721890Ed007142e45502A323827caF812/banner.png",
+      "description": "Chad Doge roams the Avax C-Chain, or as we call it, Chad-Chain. Chad vibes only. ",
+      "discordURI": "",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0x357928B721890Ed007142e45502A323827caF812/logo.png",
+      "name": "Chad Doge",
+      "symbol": "CHAD",
+      "twitterURI": "https://twitter.com/avaxchaddoge",
+      "verified": "verified",
+      "websiteURI": "https://chaddoge.xyz/"
+    },
+    "0xA849170EFEAf6286Df112c62eFdd5A11E1401bD0": {
+      "bannerURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xA849170EFEAf6286Df112c62eFdd5A11E1401bD0/banner.png",
+      "description": "Owloper Baby NFTs are the upgradeable NFTs you need for hunting missions in Owloper Game. Owloper Babies consist of drawings and genes customized for the Owloper Game, and Owloper Babies are born with the breeding of Owlopers from the Owloper NFT collection.",
+      "discordURI": "https://discord.gg/owloper",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/0xA849170EFEAf6286Df112c62eFdd5A11E1401bD0/logo.png",
+      "name": "Owloper Baby",
+      "symbol": "OWLBBYNFT",
+      "twitterURI": "https://twitter.com/owloper",
+      "verified": "verified",
+      "websiteURI": "https://www.owloper.com/"
+    }
   },
   "timestamp": "2021-04-30T00:00:00+00:00"
 }
