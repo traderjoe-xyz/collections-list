@@ -2,10 +2,16 @@
   "name": "Joepegs Artist Showcase",
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "showcase": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/artist-showcase/esoteros.png",
+      "title": "Esoteros",
+      "description": "Collection of 50. The genesis of animated glitch art on the Avax blockchain.",
+      "url": "https://joepegs.com/collections/esoteros"
+    },
     {
       "imageUrl": "https://raw.githubusercontent.com/traderjoe-xyz/collections-list/main/images/artist-showcase/doodleverse.png",
       "title": "Doodleverse",
@@ -31,5 +37,5 @@
       "url": "https://joepegs.com/collections/0x9722afb71c40e28089cb9e00c7d35b202b002a9e"
     }
   ],
-  "timestamp": "2022-06-07T00:00:00+00:00"
+  "timestamp": "2022-07-20T00:00:00+00:00"
 }
